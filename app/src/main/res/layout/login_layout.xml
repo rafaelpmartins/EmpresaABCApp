@@ -72,7 +72,6 @@
                     android:layout_margin="5dp"
                     android:layout_weight="1"
                     android:background="@color/corFundoBotao"
-                    android:onClick="sairApp"
                     android:text="@string/sair"
                     android:textColor="@color/corTextoBotao" />
 
